@@ -1,0 +1,1088 @@
+Id,label,degree
+1, a..hughes@enron.com,45
+2, a..martin@enron.com,58
+3, a..shankman@enron.com,83
+4, alan.aronowitz@enron.com,111
+5, alan.comnes@enron.com,110
+6, aleck.dadson@enron.com,50
+7, andrew.edison@enron.com,64
+8, andrew.fastow@enron.com,75
+9, andy.bettwy@swgas.com,65
+10, andy.zipper@enron.com,78
+11, angela.davis@enron.com,72
+12, ann.white@enron.com,53
+13, anne.koehler@enron.com,61
+14, aod@newsdata.com,46
+15, askaff@energy-law-group.com,58
+16, b..sanders@enron.com,68
+17, barbara.gray@enron.com,79
+18, barry.tycholiz@enron.com,96
+19, barton.clark@enron.com,73
+20, bcragg@gmssr.com,69
+21, becky.spencer@enron.com,44
+22, ben.glisan@enron.com,71
+23, ben.jacoby@enron.com,58
+24, benjamin.rogers@enron.com,40
+25, beth.apollo@enron.com,42
+26, beth.perlman@enron.com,45
+27, bill.williams@enron.com,53
+28, billy.lemmons@enron.com,42
+29, bjeider@ci.burbank.ca.us,62
+30, bob.carter@enron.com,46
+31, bob.crane@enron.com,41
+32, bob.shults@enron.com,46
+33, brad.richter@enron.com,54
+34, brent.hendry@enron.com,94
+35, brent.price@enron.com,53
+36, brian.redmond@enron.com,82
+37, bridget.maronge@enron.com,40
+38, bryan.seyfried@enron.com,44
+39, burkee@cts.com,66
+40, bwood@energy.state.ca.us,65
+41, c..gossett@enron.com,43
+42, c..koehler@enron.com,60
+43, c..williams@enron.com,42
+44, cara.semperger@enron.com,41
+45, carl.tricoli@enron.com,48
+46, carlos.sole@enron.com,46
+47, carol.clair@enron.com,84
+48, carol.moffett@enron.com,42
+49, carol.st.@enron.com,81
+50, carolyn.george@enron.com,59
+51, cathy.phillips@enron.com,54
+52, ceyap@earthlink.net,65
+53, charles.yeung@enron.com,57
+54, cheryl.nelson@enron.com,53
+55, chilen@llgm.com,66
+56, chip.schneider@enron.com,41
+57, chj@aelaw.com,55
+58, chris.foster@enron.com,47
+59, chris.gaffney@enron.com,51
+60, chris.gaskill@enron.com,42
+61, chris.king@utility.com,55
+62, chris.long@enron.com,50
+63, chris.mallory@enron.com,52
+64, christi.nicolay@enron.com,92
+65, christian.yoder@enron.com,124
+66, christopher.calger@enron.com,79
+67, cindy.olson@enron.com,71
+68, cindy.stark@enron.com,42
+69, cliff.baxter@enron.com,50
+70, coralina.rivera@enron.com,43
+71, corry.bentley@enron.com,48
+72, craig.breslau@enron.com,56
+73, craigc@calpine.com,68
+74, credit <.williams@enron.com>,43
+75, cynthia.sandherr@enron.com,52
+76, d..baughman@enron.com,49
+77, d..steffes@enron.com,121
+78, dale.neuner@enron.com,40
+79, dale.rasmussen@enron.com,63
+80, dan.hyvl@enron.com,80
+81, dan.leff@enron.com,100
+82, dan.lyons@enron.com,78
+83, dan.staines@enron.com,50
+84, dana.davis@enron.com,79
+85, daniel.allegretti@enron.com,66
+86, daniel.diamond@enron.com,40
+87, daniel.reck@enron.com,60
+88, danny.mccarty@enron.com,55
+89, dave.perrino@enron.com,52
+90, davef@abag.ca.gov,61
+91, david.delainey@enron.com,138
+92, david.duran@enron.com,50
+93, david.forster@enron.com,91
+94, david.gorte@enron.com,47
+95, david.leboe@enron.com,48
+96, david.oxley@enron.com,76
+97, david.parquet@enron.com,71
+98, david.port@enron.com,47
+99, david.portz@enron.com,110
+100, dcarroll@dbsr.com,49
+101, deb.korkmas@enron.com,75
+102, debbie.brackett@enron.com,49
+103, debra.davidson@enron.com,52
+104, debra.perlingiere@enron.com,80
+105, dennis.benevides@enron.com,51
+106, diana.scholtes@enron.com,56
+107, dina.snow@enron.com,42
+108, don.baughman@enron.com,47
+109, don.black@enron.com,103
+110, donald.lassere@enron.com,41
+111, donna.fulton@enron.com,75
+112, doug.gilbert-smith@enron.com,71
+113, doug.sewell@enron.com,49
+114, douglass@arterhadden.com,43
+115, drew.fossum@enron.com,45
+116, dutch.quigley@enron.com,41
+117, e..dickson@enron.com,47
+118, e..haedicke@enron.com,112
+119, ed.iii@enron.com,45
+120, ed.mcmichael@enron.com,65
+121, ed@clfp.com,65
+122, eddy.daniels@enron.com,44
+123, edf@cpuc.ca.gov,62
+124, edward.baughman@enron.com,61
+125, edward.sacks@enron.com,84
+126, eke@aelaw.com,68
+127, eklinkner@ci.pasadena.ca.us,65
+128, elizabeth.linnell@enron.com,68
+129, elizabeth.sager@enron.com,193
+130, elizabeth.tilney@enron.com,42
+131, elliot.mainzer@enron.com,41
+132, epoole@adplaw.com,67
+133, eric.thode@enron.com,53
+134, evk1@pge.com,43
+135, ewo@jmbm.com,64
+136, eyq@cpuc.ca.gov,46
+137, f..calger@enron.com,80
+138, fletcher.sturm@enron.com,53
+139, frank.sayre@enron.com,81
+140, frank.vickers@enron.com,69
+141, fred.lagrasta@enron.com,81
+142, furutanj@efawest.navfac.navy.mil,57
+143, gary.hickerson@enron.com,72
+144, garyb@abag.ca.gov,53
+145, gautam.gupta@enron.com,44
+146, genia.fitzgerald@enron.com,85
+147, geoff.storey@enron.com,44
+148, george.mcclellan@enron.com,58
+149, gerald.nemec@enron.com,119
+150, ghinners@reliantenergy.com,65
+151, ginger.dernehl@enron.com,79
+152, gloria.ogenyi@enron.com,42
+153, gordon.savage@enron.com,44
+154, grant_kolling@cerberus.city.palo-alto.ca.us,51
+155, greg.johnston@enron.com,56
+156, greg.piper@enron.com,103
+157, greg.whalley@enron.com,177
+158, greg.wolfe@enron.com,79
+159, gsullivan@sempra.com,66
+160, gtbl@dynegy.com,68
+161, h..foster@enron.com,51
+162, h..moore@enron.com,41
+163, haorndorff@aeraenergy.com,51
+164, harlan.murphy@enron.com,57
+165, harold.buchanan@enron.com,41
+166, harry.arora@enron.com,51
+167, harry.collins@enron.com,62
+168, harry.kingerski@enron.com,109
+169, heather.kroll@enron.com,50
+170, holden.salisbury@enron.com,40
+171, holly.keiser@enron.com,50
+172, howard.fromer@enron.com,60
+173, hunter.shively@enron.com,57
+174, iep@iepa.com,64
+175, igsinc@ix.netcom.com,65
+176, ina.rangel@enron.com,44
+177, inggm@sce.com,66
+178, j..kean@enron.com,108
+179, j..sturm@enron.com,55
+180, jake.thomas@enron.com,54
+181, james.derrick@enron.com,106
+182, james.grace@enron.com,49
+183, james.steffes@enron.com,144
+184, janel.guerrero@enron.com,82
+185, janet.dietrich@enron.com,123
+186, janet.moore@enron.com,53
+187, janette.elbertson@enron.com,94
+188, janice.moore@enron.com,62
+189, janine.migden@enron.com,62
+190, jbennett@gmssr.com,47
+191, jcattermole@pcenergy.com,65
+192, jdasovic@enron.com,58
+193, jean.mrha@enron.com,59
+194, jean.ryall@enron.com,53
+195, jeff.brown@enron.com,46
+196, jeff.dasovich@enron.com,161
+197, jeff.donahue@enron.com,66
+198, jeff.king@enron.com,40
+199, jeff.richter@enron.com,85
+200, jeff.skilling@enron.com,79
+201, jeffrey.hodge@enron.com,121
+202, jeffrey.mcmahon@enron.com,114
+203, jeffrey.miller@enron.com,41
+204, jeffrey.shankman@enron.com,82
+205, jeffrey.sherrick@enron.com,40
+206, jennifer.burns@enron.com,54
+207, jennifer.denny@enron.com,43
+208, jennifer.thome@enron.com,69
+209, jeremy.blachman@enron.com,65
+210, jim.fallon@enron.com,99
+211, jim.schwieger@enron.com,48
+212, jkarp@whitecase.com,54
+213, jleslie@luce.com,72
+214, jmct@gmssr.com,65
+215, jmpa@dynegy.com,49
+216, joe.hartsoe@enron.com,115
+217, john.arnold@enron.com,80
+218, john.lavorato@enron.com,208
+219, john.llodra@enron.com,40
+220, john.neslage@enron.com,49
+221, john.nowlan@enron.com,42
+222, john.shelk@enron.com,52
+223, john.sherriff@enron.com,103
+224, john.suarez@enron.com,40
+225, john.suttle@enron.com,41
+226, john.viverito@enron.com,66
+227, john.zufferli@enron.com,45
+228, johnj@bcjlaw.com,65
+229, jonathan.mckay@enron.com,45
+230, jordan.mintz@enron.com,64
+231, joseh@lif.org,65
+232, joseph.alamo@enron.com,49
+233, joseph.deffner@enron.com,57
+234, jsteffen@iid.com,58
+235, jtachera@energy.state.ca.us,49
+236, julia.murray@enron.com,126
+237, justin.boyd@enron.com,52
+238, jweil@aglet.org,69
+239, jwr@cpuc.ca.gov,44
+240, k..allen@enron.com,67
+241, k..heathman@enron.com,42
+242, kam.keiser@enron.com,40
+243, karen.denne@enron.com,99
+244, karen.jones@enron.com,40
+245, karen@klindh.com,62
+246, kathleen.carnahan@enron.com,59
+247, kathleen.sullivan@enron.com,48
+248, kathryn.corbally@enron.com,40
+249, kay.chapman@enron.com,68
+250, kay.mann@enron.com,108
+251, kay.young@enron.com,55
+252, kaye.ellis@enron.com,44
+253, kbhensman@aeraenergy.com,56
+254, keith.holst@enron.com,60
+255, ken.rice@enron.com,52
+256, kenneth.lay@enron.com,80
+257, kerry.stroup@enron.com,51
+258, kevin.hannon@enron.com,76
+259, kevin.mcgowan@enron.com,64
+260, kevin.meredith@enron.com,41
+261, kevin.presto@enron.com,94
+262, kfyip@seiworldwide.com,64
+263, kimberlee.bennick@enron.com,45
+264, kimberly.hillis@enron.com,95
+265, kmccrea@sablaw.com,70
+266, kmills@cfbf.com,66
+267, kristina.mordaunt@enron.com,47
+268, l..nicolay@enron.com,75
+269, lance.schuler-legal@enron.com,69
+270, laura.luce@enron.com,64
+271, laurie.mayer@enron.com,51
+272, legal <.hall@enron.com>,50
+273, legal <.schuler@enron.com>,46
+274, legal <.taylor@enron.com>,96
+275, leslie.hansen@enron.com,95
+276, leslie.lawner@enron.com,75
+277, leslie.reeves@enron.com,77
+278, linda.guinn@enron.com,44
+279, linda.noske@enron.com,59
+280, linda.robertson@enron.com,106
+281, lindseyhowdowning@dwt.com,69
+282, lisa.lees@enron.com,49
+283, lisa.mellencamp@enron.com,113
+284, lisa.yoho@enron.com,67
+285, liz.taylor@enron.com,79
+286, lloyd.will@enron.com,89
+287, lmh@eslawfirm.com,63
+288, london.brown@enron.com,46
+289, lora.sullivan@enron.com,46
+290, lou.stoler@enron.com,68
+291, louise.kitchen@enron.com,222
+292, ltt@cpuc.ca.gov,47
+293, lucy.marshall@enron.com,43
+294, luiz.maurer@enron.com,47
+295, lysa.akin@enron.com,44
+296, m..driscoll@enron.com,40
+297, m..presto@enron.com,96
+298, marcel@turn.org,65
+299, marchris.robinson@enron.com,49
+300, marcus.nettelton@enron.com,103
+301, marie.heard@enron.com,90
+302, mark.c.moench@wgp.twc.com,66
+303, mark.evans@enron.com,44
+304, mark.fischer@enron.com,53
+305, mark.frevert@enron.com,123
+306, mark.greenberg@enron.com,73
+307, mark.haedicke@enron.com,153
+308, mark.koenig@enron.com,96
+309, mark.metts@enron.com,55
+310, mark.muller@enron.com,49
+311, mark.palmer@enron.com,129
+312, mark.pickering@enron.com,42
+313, mark.tawney@enron.com,54
+314, mark.taylor@enron.com,164
+315, marsha.schiller@enron.com,52
+316, marty.sunde@enron.com,68
+317, mary.cook@enron.com,118
+318, mary.hain@enron.com,90
+319, mary.heinitz@enron.com,46
+320, mary.ogden@enron.com,66
+321, mary.schoen@enron.com,48
+322, matt.maxwell@enron.com,51
+323, matt.motley@enron.com,55
+324, maureen.mcvicker@enron.com,101
+325, mcn@cpuc.ca.gov,44
+326, mday@gmssr.com,113
+327, mdjoseph@adamsbroadwell.com,68
+328, melinda.pharms@enron.com,41
+329, meredith.philipp@enron.com,40
+330, michael.brown@enron.com,77
+331, michael.etringer@enron.com,46
+332, michael.mcdonald@enron.com,48
+333, michael.robison@enron.com,56
+334, michael.tribolet@enron.com,70
+335, michelle.blaine@enron.com,41
+336, michelle.cash@enron.com,100
+337, mike.carson@enron.com,42
+338, mike.grigsby@enron.com,95
+339, mike.mcconnell@enron.com,118
+340, mike.smith@enron.com,66
+341, mike.swerzbin@enron.com,71
+342, mitch.robinson@enron.com,42
+343, mjaske@energy.state.ca.us,63
+344, molly.harris@enron.com,40
+345, mona.petrochko@enron.com,58
+346, n..gray@enron.com,57
+347, nancy.corbet@enron.com,44
+348, napedersen@jonesday.com,68
+349, nicki.daw@enron.com,51
+350, nony.flores@enron.com,60
+351, ozzie.pagan@enron.com,50
+352, pat.radford@enron.com,58
+353, pat.shortridge@enron.com,49
+354, patrick.keene@enron.com,41
+355, paul.choi@enron.com,42
+356, paul.kaufman@enron.com,120
+357, paul.racicot@enron.com,40
+358, paul.radous@enron.com,45
+359, paul.simons@enron.com,43
+360, paula.rieker@enron.com,56
+361, paulamirault@aec.ca,41
+362, peggy.banczak@enron.com,51
+363, peggy.hedstrom@enron.com,48
+364, peggy.mahoney@enron.com,40
+365, peter.keohane@enron.com,75
+366, peter.vecchio@enron.com,49
+367, philippe.bibi@enron.com,48
+368, phillip.allen@enron.com,80
+369, phillip.platter@enron.com,41
+370, pinto.leite@enron.com,50
+371, pjpowerlaw@aol.com,65
+372, plg@cpuc.ca.gov,65
+373, porterdk@sce.com,61
+374, pr <.palmer@enron.com>,69
+375, r..brackett@enron.com,53
+376, rahil.jafry@enron.com,40
+377, ram@cpuc.ca.gov,45
+378, raveen_maan@cerberus.city.palo-alto.ca.us,52
+379, raw@cpuc.ca.gov,48
+380, ray.alvarez@enron.com,70
+381, raymond.bowen@enron.com,103
+382, rbw@mrwassoc.com,63
+383, rczahar@aol.com,57
+384, rebecca.cantrell@enron.com,50
+385, rebecca.mcdonald@enron.com,52
+386, rex.rogers@enron.com,48
+387, rfoss@coral-energy.com,53
+388, rgloistein@orrick.com,58
+389, richard.causey@enron.com,97
+390, richard.ingersoll@enron.com,42
+391, richard.sanders@enron.com,130
+392, richard.shapiro@enron.com,185
+393, rick.buy@enron.com,149
+394, rick.counihan@greenmountain.com,69
+395, rmp@cpuc.ca.gov,66
+396, rob.bradley@enron.com,58
+397, rob.milnthorp@enron.com,70
+398, rob.walls@enron.com,53
+399, robert.badeer@enron.com,83
+400, robert.benson@enron.com,52
+401, robert.bruce@enron.com,75
+402, robert.frank@enron.com,80
+403, robert.hemstock@enron.com,50
+404, robert.neustaedter@enron.com,61
+405, robert.superty@enron.com,41
+406, robert.walker@enron.com,53
+407, robert.williams@enron.com,48
+408, rochmanm@cubjpa.org,59
+409, rochmanm@spurr.org,50
+410, rod.hayslett@enron.com,58
+411, rogers.herndon@enron.com,99
+412, ron_oechsler@rmiinc.com,63
+413, ronknecht@aol.com,58
+414, rosalee.fleming@enron.com,54
+415, roy.boston@enron.com,42
+416, rpelote@energy.twc.com,46
+417, rpetti@ladwp.com,64
+418, russell.diamond@enron.com,48
+419, s..bradford@enron.com,104
+420, s..shively@enron.com,73
+421, salleyoo@dwt.com,60
+422, sally.beck@enron.com,121
+423, samantha.boyd@enron.com,73
+424, sandi.braband@enron.com,55
+425, sandra.mccubbin@enron.com,81
+426, sara.shackleton@enron.com,141
+427, sarah.novosel@enron.com,122
+428, sbs@cpuc.ca.gov,55
+429, scott.josey@enron.com,44
+430, scott.neal@enron.com,106
+431, scott.stoness@enron.com,41
+432, sean.crandall@enron.com,58
+433, shari.stack@enron.com,86
+434, sharron.westbrook@enron.com,50
+435, shawna.flynn@enron.com,61
+436, sheila.tweed@enron.com,109
+437, shelley.corman@enron.com,73
+438, sheri.thomas@enron.com,54
+439, sherri.sera@enron.com,41
+440, shonnie.daniel@enron.com,70
+441, skatz@sempratrading.com,47
+442, slins@ci.glendale.ca.us,64
+443, sscott3@enron.com,67
+444, stacy.dickson@enron.com,69
+445, stanley.horton@enron.com,84
+446, stephanie.miller@enron.com,56
+447, stephanie.panus@enron.com,81
+448, stephanie.sever@enron.com,42
+449, stephen.burns@enron.com,43
+450, stephen.douglas@enron.com,46
+451, steve.hall@enron.com,44
+452, steve.hooser@enron.com,63
+453, steve.montovano@enron.com,71
+454, steve.van@enron.com,44
+455, steve.walton@enron.com,76
+456, steven.kean@enron.com,182
+457, stewart.rosman@enron.com,53
+458, stomashe@energy.state.ca.us,61
+459, stuart.staley@enron.com,40
+460, stuart.zisman@enron.com,85
+461, sue.ford@enron.com,54
+462, sue.nord@enron.com,60
+463, susan.bailey@enron.com,89
+464, susan.flynn@enron.com,43
+465, susan.landwehr@enron.com,52
+466, susan.lindberg@enron.com,41
+467, susan.mara@enron.com,124
+468, susan.scott@enron.com,73
+469, suzanne.adams@enron.com,51
+470, t..hodge@enron.com,87
+471, taffy.milligan@enron.com,60
+472, tah@cpuc.ca.gov,42
+473, tammie.schoppe@enron.com,95
+474, tana.jones@enron.com,147
+475, tanya.rohauer@enron.com,73
+476, tdickers@westerngas.com,62
+477, ted.murphy@enron.com,60
+478, teresa.bushman@enron.com,50
+479, thane.twiggs@enron.com,60
+480, thompson@wrightlaw.com,56
+481, tim.belden@enron.com,188
+482, tim.heizenrader@enron.com,46
+483, tina.spiller@enron.com,45
+484, tom.alonso@enron.com,50
+485, tom.briggs@enron.com,84
+486, tom.chapman@enron.com,42
+487, tom.hoatson@enron.com,51
+488, tom.may@enron.com,44
+489, tom.moran@enron.com,56
+490, tom.roth@et.pge.com,54
+491, tomb@crossborderenergy.com,63
+492, tracy.ngo@enron.com,80
+493, travis.mccullough@enron.com,144
+494, twanda.sweet@enron.com,68
+495, vicki.sharp@enron.com,107
+496, vince.kaminski@enron.com,59
+497, vjb@cpuc.ca.gov,47
+498, vladimir.gorny@enron.com,54
+499, w..delainey@enron.com,40
+500, w..white@enron.com,60
+501, w.duran@enron.com,47
+502, wanda.curry@enron.com,63
+503, wayne.gresham@enron.com,82
+504, wendy.conwell@enron.com,48
+505, wes.colwell@enron.com,83
+506, william.bradford@enron.com,116
+507,40enron@enron.com,120
+508,a..martin@enron.com,40
+509,a..shankman@enron.com,72
+510,ack@aelaw.com,97
+511,adam.johnson@enron.com,58
+512,adrianne.engler@enron.com,43
+513,afm@cpuc.ca.gov,68
+514,alan.aronowitz@enron.com,168
+515,alan.comnes@enron.com,246
+516,alb@cpuc.ca.gov,107
+517,alice.wright@enron.com,50
+518,allison.navin@enron.com,46
+519,amr.ibrahim@enron.com,86
+520,amy.fitzpatrick@enron.com,109
+521,andrew.edison@enron.com,82
+522,andrew.wu@enron.com,97
+523,andy.bettwy@groupwise.swgas.com,84
+524,andy.rodriquez@enron.com,75
+525,andy.zipper@enron.com,96
+526,angela.davis@enron.com,43
+527,angela.wilson@enron.com,62
+528,angie.collins@enron.com,58
+529,anita.luong@enron.com,46
+530,anna.mehrer@enron.com,49
+531,anne.labbe@enron.com,51
+532,annelouis@dwt.com,84
+533,araceli.romero@enron.com,73
+534,arfan.aziz@enron.com,72
+535,arsystem@mailman.enron.com,40
+536,b..sanders@enron.com,102
+537,barbara.gray@enron.com,63
+538,barbaranielsen@dwt.com,94
+539,barry.tycholiz@enron.com,90
+540,bcherry@sempra.com,86
+541,bcragg@gmssr.com,73
+542,becky.spencer@enron.com,155
+543,becky.tlucek@enron.com,41
+544,becky.zikes@enron.com,57
+545,ben.glisan@enron.com,46
+546,ben.jacoby@enron.com,75
+547,benjamin.rogers@enron.com,43
+548,bernadette.hawkins@enron.com,140
+549,beth.apollo@enron.com,42
+550,beverly.stephens@enron.com,91
+551,bill.williams@enron.com,61
+552,billy.dorsey@enron.com,65
+553,billy.lemmons@enron.com,176
+554,bob.ambrocik@enron.com,46
+555,bob.shults@enron.com,108
+556,bobbie.power@enron.com,61
+557,body.shop@enron.com,54
+558,bodyshop@enron.com,40
+559,bradylaw@pacbell.net,45
+560,brant.reves@enron.com,52
+561,brenda.whitehead@enron.com,157
+562,brent.hendry@enron.com,96
+563,brian.redmond@enron.com,100
+564,bridget.maronge@enron.com,43
+565,britt.davis@enron.com,61
+566,britt.whitman@enron.com,48
+567,bruno.gaillard@enron.com,59
+568,bryan.gottfredson@enron.com,71
+569,bryan.seyfried@enron.com,52
+570,burkee@cts.com,76
+571,bwg@cpuc.ca.gov,76
+572,c..gossett@enron.com,49
+573,c..hall@enron.com,57
+574,c..koehler@enron.com,88
+575,c..williams@enron.com,71
+576,cara.semperger@enron.com,55
+577,carol.clair@enron.com,154
+578,carol.st.@enron.com,107
+579,carolyn.george@enron.com,122
+580,cassandra.schultz@enron.com,83
+581,cathy.phillips@enron.com,64
+582,celeste.roberts@enron.com,52
+583,charlene.jackson@enron.com,46
+584,charles.cheek@enron.com,42
+585,charles.yeung@enron.com,83
+586,cheryl.johnson@enron.com,56
+587,cheryl.lindeman@enron.com,66
+588,cheryl.nelson@enron.com,52
+589,chip.schneider@enron.com,84
+590,chj@aelaw.com,93
+591,chris.abel@enron.com,101
+592,chris.dorland@enron.com,44
+593,chris.foster@enron.com,58
+594,chris.germany@enron.com,52
+595,chris.long@enron.com,71
+596,chris.walker@enron.com,42
+597,christa.winfrey@enron.com,53
+598,christa@crossborderenergy.com,94
+599,christi.nicolay@enron.com,211
+600,christian.yoder@enron.com,89
+601,christie.patrick@enron.com,65
+602,christopher.calger@enron.com,71
+603,cindy.derecskey@enron.com,104
+604,cindy.olson@enron.com,65
+605,clement.abrams@enron.com,44
+606,colleen.sullivan@enron.com,41
+607,credit <.williams@enron.com>,51
+608,cynthia.sandherr@enron.com,62
+609,d..steffes@enron.com,243
+610,dale.neuner@enron.com,53
+611,dale.rasmussen@enron.com,77
+612,dan.hyvl@enron.com,102
+613,dan.leff@enron.com,105
+614,daniel.allegretti@enron.com,42
+615,daniel.diamond@enron.com,63
+616,daniel.muschar@enron.com,77
+617,danielle.marcinkowski@enron.com,60
+618,danz@enron.com,56
+619,darran.binns@enron.com,45
+620,dave.perrino@enron.com,85
+621,david.delainey@enron.com,216
+622,david.forster@enron.com,256
+623,david.gorte@enron.com,52
+624,david.leboe@enron.com,46
+625,david.minns@enron.com,40
+626,david.oxley@enron.com,229
+627,david.parquet@enron.com,69
+628,david.port@enron.com,67
+629,david.portz@enron.com,127
+630,david.poston@enron.com,49
+631,dcarroll@dbsr.com,87
+632,deb.korkmas@enron.com,136
+633,debbie.brackett@enron.com,49
+634,debbie.nowak@enron.com,59
+635,deborah.shahmoradi@enron.com,74
+636,debra.davidson@enron.com,60
+637,debra.perlingiere@enron.com,106
+638,dernehl@enron.com,62
+639,deshonda.hamilton@enron.com,84
+640,dft1@pge.com,83
+641,diana.scholtes@enron.com,51
+642,dina.snow@enron.com,94
+643,dmm@cpuc.ca.gov,84
+644,don.black@enron.com,57
+645,don.miller@enron.com,57
+646,donna.fulton@enron.com,121
+647,donna.lowry@enron.com,89
+648,dorie.hitchcock@enron.com,171
+649,dorsey@enron.com,54
+650,doug.gilbert-smith@enron.com,40
+651,doug.leach@enron.com,43
+652,drew.fossum@enron.com,72
+653,dwa3@pge.com,79
+654,e..haedicke@enron.com,180
+655,e..levingston@enron.com,68
+656,eap@cpuc.ca.gov,86
+657,ebe4476b-2d94882a-86256a14-75ff3b@enron.com,42
+658,ed.mcmichael@enron.com,91
+659,edmund.cooper@enron.com,41
+660,edward.baughman@enron.com,43
+661,edward.sacks@enron.com,109
+662,egw@a-klaw.com,72
+663,eke@aelaw.com,100
+664,elizabeth.linnell@enron.com,114
+665,elizabeth.sager@enron.com,232
+666,elyse.kalmans@enron.com,48
+667,epoole@adplaw.com,72
+668,eric.thode@enron.com,149
+669,erica.braden@enron.com,91
+670,esmeralda.gonzalez@enron.com,132
+671,esmeralda.hinojosa@enron.com,52
+672,evk1@pge.com,77
+673,f..calger@enron.com,115
+674,fraisy.george@enron.com,57
+675,frank.hayden@enron.com,66
+676,frank.sayre@enron.com,56
+677,frank.vickers@enron.com,46
+678,frazier.king@enron.com,100
+679,frl3@pge.com,86
+680,gac@mrwassoc.com,82
+681,gail.brownfeld@enron.com,44
+682,gary.hickerson@enron.com,46
+683,genia.fitzgerald@enron.com,48
+684,george.mcclellan@enron.com,52
+685,george.wasaff@enron.com,45
+686,gerald.nemec@enron.com,144
+687,gfergus@brobeck.com,54
+688,gina.corteselli@enron.com,48
+689,ginger.dernehl@enron.com,219
+690,gjb2@pge.com,79
+691,gloria.cruz@enron.com,88
+692,grace.rodriguez@enron.com,59
+693,greg.johnston@enron.com,57
+694,greg.piper@enron.com,89
+695,greg.whalley@enron.com,132
+696,greg.wolfe@enron.com,47
+697,gregory.adams@enron.com,43
+698,gsullivan@sempra.com,103
+699,gus.perez@enron.com,45
+700,h..foster@enron.com,45
+701,harry.kingerski@enron.com,140
+702,hayley@turn.org,80
+703,heather.johnson@enron.com,63
+704,heather.kroll@enron.com,40
+705,hector.mcloughlin@enron.com,42
+706,hgovenar@govadv.com,47
+707,holly.keiser@enron.com,130
+708,houston <.ward@enron.com>,43
+709,howard.fromer@enron.com,80
+710,huntertd@sce.com,86
+711,ina.rangel@enron.com,51
+712,iris.mack@enron.com,51
+713,j..kean@enron.com,183
+714,j..noske@enron.com,74
+715,j..sturm@enron.com,57
+716,j.harris@enron.com,47
+717,j.kaminski@enron.com,70
+718,jacqueline.coleman@enron.com,86
+719,jae.black@enron.com,67
+720,jaime.williams@enron.com,44
+721,jaki_l._hawkins@jonesday.com,94
+722,james.bannantine@enron.com,43
+723,james.bruce@enron.com,45
+724,james.derrick@enron.com,91
+725,james.grace@enron.com,49
+726,james.steffes@enron.com,229
+727,jan.cooley@enron.com,54
+728,janel.guerrero@enron.com,175
+729,janet.butler@enron.com,57
+730,janet.dietrich@enron.com,88
+731,janette.elbertson@enron.com,255
+732,janice.moore@enron.com,57
+733,janine.migden@enron.com,98
+734,jason.williams@enron.com,50
+735,jay.webb@enron.com,46
+736,jbennett@gmssr.com,58
+737,jblackwell@luce.com,96
+738,jean.mrha@enron.com,44
+739,jeff.brown@enron.com,48
+740,jeff.dasovich@enron.com,347
+741,jeff.donahue@enron.com,40
+742,jeff.skilling@enron.com,141
+743,jeffrey.hodge@enron.com,99
+744,jeffrey.keeler@enron.com,96
+745,jeffrey.mcmahon@enron.com,86
+746,jeffrey.shankman@enron.com,121
+747,jennifer.burns@enron.com,100
+748,jennifer.fraser@enron.com,56
+749,jennifer.mcquade@enron.com,41
+750,jennifer.thome@enron.com,79
+751,jenny.helton@enron.com,97
+752,jim.fallon@enron.com,65
+753,jleslie@luce.com,88
+754,jmpa@dynegy.com,94
+755,joanne.rozycki@enron.com,72
+756,joannie.williamson@enron.com,127
+757,joe.connor@enron.com,55
+758,joe.hartsoe@enron.com,80
+759,joe.paul@dynegy.com,85
+760,john.ambler@enron.com,43
+761,john.arnold@enron.com,86
+762,john.lavorato@enron.com,282
+763,john.llodra@enron.com,66
+764,john.malowney@enron.com,58
+765,john.shelk@enron.com,75
+766,john.sherriff@enron.com,97
+767,john.viverito@enron.com,65
+768,johnj@bcjlaw.com,79
+769,jonathan.mckay@enron.com,41
+770,jonesday@jonesday.com,86
+771,jordan.mintz@enron.com,51
+772,jose.bestard@enron.com,44
+773,joseph.alamo@enron.com,136
+774,joya.davis@enron.com,114
+775,jsmith@sablaw.com,86
+776,jstuart@luce.com,76
+777,jsuwara@sempra.com,53
+778,julia.murray@enron.com,72
+779,julie.clyatt@enron.com,153
+780,julie.kearney@enron.com,50
+781,justin.boyd@enron.com,58
+782,justin.rostant@enron.com,63
+783,jwwd@pge.com,81
+784,k..allen@enron.com,59
+785,kam.keiser@enron.com,53
+786,karen.buckley@enron.com,101
+787,karen.denne@enron.com,199
+788,karen.heathman@enron.com,43
+789,karen.lambert@enron.com,42
+790,kate.cole@enron.com,45
+791,kate.symes@enron.com,55
+792,katherine.brown@enron.com,70
+793,kathie.grabstald@enron.com,70
+794,kathryn.sheppard@enron.com,40
+795,kathy.dodgen@enron.com,73
+796,kathy.mcmahon@enron.com,69
+797,kay.chapman@enron.com,174
+798,kay.mann@enron.com,178
+799,kay.young@enron.com,109
+800,kaye.ellis@enron.com,111
+801,keegan.farrell@enron.com,112
+802,kelly.johnson@enron.com,82
+803,kelly.kimberly@enron.com,48
+804,ken@kdscommunications.com,46
+805,kenneth.lay@enron.com,229
+806,kenneth.thibodeaux@enron.com,72
+807,kerry.stroup@enron.com,70
+808,kevin.presto@enron.com,91
+809,khymberly.booth@enron.com,53
+810,kim.melodick@enron.com,71
+811,kimberly.hillis@enron.com,134
+812,kingerski@enron.com,50
+813,kortney.brown@enron.com,45
+814,kristin.walsh@enron.com,71
+815,l..denton@enron.com,85
+816,l..nicolay@enron.com,170
+817,l..wells@enron.com,58
+818,la.rose@enron.com,41
+819,lara.leibman@enron.com,127
+820,larry.hunter@enron.com,47
+821,laura.luce@enron.com,45
+822,laura.valencia@enron.com,56
+823,laurie.knight@enron.com,67
+824,lavorato@enron.com,141
+825,lee.wright@enron.com,50
+826,legal <.hall@enron.com>,80
+827,legal <.schuler@enron.com>,44
+828,legal <.taylor@enron.com>,130
+829,legal.1@enron.com,51
+830,lemmons.jr.@enron.com,78
+831,leonardo.pacheco@enron.com,75
+832,leslie.hansen@enron.com,103
+833,leslie.lawner@enron.com,99
+834,lexi.elliott@enron.com,44
+835,lillian.carroll@enron.com,43
+836,linda.noske@enron.com,192
+837,linda.robertson@enron.com,137
+838,linda.simmons@enron.com,97
+839,lisa.costello@enron.com,41
+840,lisa.jacobson@enron.com,58
+841,lisa.mellencamp@enron.com,136
+842,lisa.yoho@enron.com,84
+843,liz.taylor@enron.com,221
+844,lloyd.will@enron.com,82
+845,lora.sullivan@enron.com,54
+846,louise.kitchen@enron.com,378
+847,luiz.maurer@enron.com,47
+848,lydia.cannon@enron.com,57
+849,lynette.crawford@enron.com,56
+850,lynnette.barnes@enron.com,43
+851,lysa.akin@enron.com,112
+852,m..landwehr@enron.com,63
+853,m..presto@enron.com,172
+854,m.hall@enron.com,40
+855,mae@cpuc.ca.gov,86
+856,marcel@turn.org,97
+857,marcia.linton@enron.com,95
+858,marcus.nettelton@enron.com,105
+859,margaret.doucette@enron.com,75
+860,margo.reyna@enron.com,81
+861,marie.heard@enron.com,147
+862,mark.c.moench@williams.com,90
+863,mark.frevert@enron.com,105
+864,mark.greenberg@enron.com,161
+865,mark.haedicke@enron.com,247
+866,mark.koenig@enron.com,42
+867,mark.palmer@enron.com,102
+868,mark.powell@enron.com,46
+869,mark.schroeder@enron.com,54
+870,mark.taylor@enron.com,286
+871,mark.whitt@enron.com,49
+872,martha.keesler@enron.com,77
+873,mary.clark@enron.com,66
+874,mary.cook@enron.com,162
+875,mary.hain@enron.com,200
+876,mary.ogden@enron.com,46
+877,mary.schoen@enron.com,53
+878,mary.solmonson@enron.com,45
+879,maureen.mcvicker@enron.com,221
+880,maxine.levingston@enron.com,86
+881,mcvicker@enron.com,63
+882,mday@gmssr.com,179
+883,mdjoseph@adamsbroadwell.com,84
+884,melba.lozano@enron.com,49
+885,meredith.philipp@enron.com,41
+886,mflorio@turn.org,85
+887,mharris@rcgroup.com,44
+888,michael.brown@enron.com,97
+889,michael.tribolet@enron.com,133
+890,michelle.cash@enron.com,156
+891,mike.curry@enron.com,51
+892,mike.grigsby@enron.com,71
+893,mike.mcconnell@enron.com,153
+894,mike.smith@enron.com,97
+895,misti.day@enron.com,49
+896,mitch.robinson@enron.com,43
+897,miyung.buster@enron.com,58
+898,mlt@cpuc.ca.gov,86
+899,mollie.gustafson@enron.com,60
+900,molly.harris@enron.com,48
+901,mona.petrochko@enron.com,62
+902,n..gray@enron.com,52
+903,nancy.bagot@enron.com,40
+904,napedersen@jonesday.com,94
+905,nas@cpuc.ca.gov,74
+906,nco1@pge.com,77
+907,neil.davies@enron.com,109
+908,neustaedter@enron.com,51
+909,nicki.daw@enron.com,184
+910,nita.garcia@enron.com,69
+911,no.address@enron.com,173
+912,nony.flores@enron.com,104
+913,nora.dobin@enron.com,44
+914,norman_a._pedersen@jonesday.com,89
+915,outlook.team@enron.com,160
+916,p..o'neil@enron.com,44
+917,pat.radford@enron.com,138
+918,pat.shortridge@enron.com,40
+919,patti.thompson@enron.com,69
+920,paul.kaufman@enron.com,159
+921,paul.radous@enron.com,50
+922,paul.simons@enron.com,58
+923,paula.rieker@enron.com,105
+924,paulamirault@aec.ca,69
+925,paulette.obrecht@enron.com,81
+926,peggy.mahoney@enron.com,50
+927,peter.keohane@enron.com,109
+928,peter.styles@enron.com,68
+929,pgg4@pge.com,66
+930,phillip.allen@enron.com,79
+931,pjpowerlaw@aol.com,94
+932,pr <.palmer@enron.com>,64
+933,project.gem@enron.com,70
+934,r..guinn@enron.com,64
+935,r..harrington@enron.com,43
+936,r..pena@enron.com,51
+937,rahil.jafry@enron.com,63
+938,ray.alvarez@enron.com,146
+939,raymond.bowen@enron.com,85
+940,rcarroll@bracepatt.com,67
+941,rch8@pge.com,75
+942,rebecca.cantrell@enron.com,81
+943,rebecca.carter@enron.com,97
+944,rex.rogers@enron.com,64
+945,rgloistein@orrick.com,87
+946,rhonda.denton@enron.com,96
+947,richard.causey@enron.com,93
+948,richard.ingersoll@enron.com,50
+949,richard.sanders@enron.com,220
+950,richard.shapiro@enron.com,275
+951,rick.buy@enron.com,146
+952,rita.hartfield@enron.com,72
+953,rjl9@pge.com,95
+954,rmp@cpuc.ca.gov,45
+955,rob.bradley@enron.com,69
+956,rob.milnthorp@enron.com,53
+957,rob.walls@enron.com,54
+958,robert.bruce@enron.com,68
+959,robert.eickenroht@enron.com,62
+960,robert.frank@enron.com,133
+961,robert.johnston@enron.com,56
+962,robert.neustaedter@enron.com,85
+963,robert.williams@enron.com,72
+964,robin.jordan@enron.com,99
+965,rod.hayslett@enron.com,62
+966,roger.yang@enron.com,50
+967,rogers.herndon@enron.com,62
+968,ron.coker@enron.com,52
+969,rosalee.fleming@enron.com,146
+970,rrs5@pge.com,80
+971,russell.diamond@enron.com,135
+972,ruth.concannon@enron.com,40
+973,s..bradford@enron.com,105
+974,s..shively@enron.com,51
+975,s..theriot@enron.com,63
+976,salleyoo@dwt.com,89
+977,sally.beck@enron.com,236
+978,samantha.boyd@enron.com,78
+979,sandra.mccubbin@enron.com,85
+980,sara.davidson@enron.com,145
+981,sara.shackleton@enron.com,230
+982,sarah.novosel@enron.com,181
+983,savita.puthigai@enron.com,75
+984,scott.neal@enron.com,88
+985,scott.stoness@enron.com,50
+986,sean.crandall@enron.com,46
+987,sgovenar@govadv.com,46
+988,shari.stack@enron.com,100
+989,sharon.crawford@enron.com,64
+990,sharron.westbrook@enron.com,87
+991,sheila.glover@enron.com,73
+992,sheila.knudsen@enron.com,58
+993,sheila.tweed@enron.com,66
+994,sheila.walton@enron.com,49
+995,shelley.corman@enron.com,67
+996,sheri.cromwell@enron.com,99
+997,sheri.thomas@enron.com,43
+998,sherri.sera@enron.com,128
+999,shirley.crenshaw@enron.com,46
+1000,shirley.tijerina@enron.com,41
+1001,shona.wilson@enron.com,87
+1002,shonnie.daniel@enron.com,94
+1003,simone.la@enron.com,65
+1004,simone.rose@enron.com,76
+1005,sonya.johnson@enron.com,103
+1006,stacey.bolton@enron.com,80
+1007,stacey.richardson@enron.com,62
+1008,stanley.horton@enron.com,94
+1009,steffes@enron.com,57
+1010,stephanie.miller@enron.com,71
+1011,stephanie.panus@enron.com,166
+1012,stephanie.sever@enron.com,59
+1013,stephanie.truss@enron.com,82
+1014,stephen.thome@enron.com,56
+1015,steve.hall@enron.com,66
+1016,steve.hooser@enron.com,81
+1017,steve.montovano@enron.com,50
+1018,steve.van@enron.com,57
+1019,steve.walton@enron.com,102
+1020,steven.kean@enron.com,265
+1021,stuart.zisman@enron.com,115
+1022,sue.ford@enron.com,53
+1023,sue.nord@enron.com,52
+1024,susan.bailey@enron.com,127
+1025,susan.flynn@enron.com,49
+1026,susan.landwehr@enron.com,70
+1027,susan.lindberg@enron.com,78
+1028,susan.mara@enron.com,206
+1029,susan.rance@enron.com,42
+1030,susan.scott@enron.com,170
+1031,susan.skarness@enron.com,43
+1032,suzanne.adams@enron.com,96
+1033,suzanne.brown@enron.com,46
+1034,suzanne.danz@enron.com,63
+1035,swf5@pge.com,86
+1036,sylvia.hu@enron.com,121
+1037,sylvia.sauseda@enron.com,69
+1038,syw1@pge.com,94
+1039,t..hodge@enron.com,90
+1040,taffy.milligan@enron.com,149
+1041,tamara.johnson@enron.com,54
+1042,tammie.schoppe@enron.com,183
+1043,tana.jones@enron.com,265
+1044,tanya.rohauer@enron.com,124
+1045,tara.rafter@enron.com,54
+1046,technology.enron@enron.com,94
+1047,ted.bland@enron.com,156
+1048,ted.murphy@enron.com,60
+1049,teresa.bosien@enron.com,70
+1050,teresa.bushman@enron.com,46
+1051,terrie.james@enron.com,59
+1052,thane.twiggs@enron.com,67
+1053,theresa.zucha@enron.com,76
+1054,tim.belden@enron.com,170
+1055,todb@metretekfl.com,79
+1056,tom.briggs@enron.com,43
+1057,tom.delaney@enron.com,99
+1058,tom.hoatson@enron.com,64
+1059,tom.may@enron.com,71
+1060,tom.moran@enron.com,65
+1061,tom.roth@neg.pge.com,85
+1062,tori.wells@enron.com,45
+1063,torrey.moorer@enron.com,41
+1064,tracey.kozadinos@enron.com,51
+1065,tracy.ngo@enron.com,128
+1066,tracy.ralston@enron.com,49
+1067,transportation.parking@enron.com,49
+1068,travis.mccullough@enron.com,168
+1069,trey.hardy@enron.com,41
+1070,twanda.sweet@enron.com,217
+1071,vanessa.groscrand@enron.com,46
+1072,veronica.espinoza@enron.com,123
+1073,veronica.gonzalez@enron.com,46
+1074,veronica.valdez@enron.com,40
+1075,vicki.sharp@enron.com,133
+1076,vince.kaminski@enron.com,135
+1077,vladimir.gorny@enron.com,66
+1078,w..cantrell@enron.com,75
+1079,w..delainey@enron.com,40
+1080,w..white@enron.com,66
+1081,wade.stubblefield@enron.com,57
+1082,wanda.curry@enron.com,58
+1083,wendy.conwell@enron.com,51
+1084,wes.colwell@enron.com,71
+1085,william.bradford@enron.com,111
+1086,yxg4@pge.com,80
+1087,zangeles@sempra.com,82
